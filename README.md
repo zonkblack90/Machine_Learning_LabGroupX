@@ -1,1 +1,1 @@
-# Machine_Learning_LabGroupX
+# NYCDSA Machine Learning Lab
